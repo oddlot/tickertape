@@ -1,2 +1,2 @@
-# tickertape
-Custom Android view for showing scrolling news and data (e.g. stock prices)
+# Ticker Tape
+Custom Android recyclerview for displaying scrolling news and market data
